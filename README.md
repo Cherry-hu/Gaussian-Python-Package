@@ -1,6 +1,6 @@
 # Gaussian-Python-Package
 
-Gaussian Distributions,Binomial Distributions
+buildung a Python package for analyzing probability disrtibutons
 
 from the AWS Machine Learning Foundations Course
 
